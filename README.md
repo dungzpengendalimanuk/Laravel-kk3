@@ -1,4 +1,4 @@
-# 📋 Sistem Manajemen Karyawan — Laravel Eloquent
+<img width="959" height="536" alt="1" src="https://github.com/user-attachments/assets/9ff1711c-1a93-48dc-b405-0c73fad3e9c9" /># 📋 Sistem Manajemen Karyawan — Laravel Eloquent
 
 Aplikasi web CRUD manajemen karyawan dan departemen menggunakan Laravel Eloquent ORM. Dibuat sebagai tugas pengenalan Eloquent dengan fitur tambahan **Search**, **Filter**, dan **Relasi Model**.
 
@@ -150,19 +150,12 @@ routes/
 
 ## 📸 Hasil Pengerjaan Web
 
-### Halaman Data Karyawan (dengan Search & Filter)
-Menampilkan tabel karyawan dengan fitur pencarian dan filter departemen. Data karyawan ditampilkan bersama nama departemen hasil **join/eager loading**.
+<img width="959" height="536" alt="1" src="https://github.com/user-attachments/assets/9da177a5-c337-4d63-aeee-e544fd11a71b" />
 
-> Tampilan menggunakan custom style dengan **glassmorphism card**, **sidebar navigation**, **gradient button**, dan **badge styling** pada posisi dan departemen.
+<img width="959" height="536" alt="2" src="https://github.com/user-attachments/assets/979f9bea-8545-46a0-a2d0-0f4f788bc895" />
 
-### Halaman Tambah Karyawan
-Form untuk menambah karyawan baru dengan input nama, posisi, dan dropdown pilih departemen.
+<img width="959" height="536" alt="3" src="https://github.com/user-attachments/assets/7644132b-8066-4994-8760-b0b17dccedb2" />
 
-### Halaman Data Departemen
-Menampilkan daftar semua departemen beserta jumlah karyawan di setiap departemen (menggunakan `withCount`).
-
-### Halaman Tambah/Edit Departemen
-Form untuk menambah atau mengedit data departemen dengan nama dan deskripsi.
 
 ---
 
